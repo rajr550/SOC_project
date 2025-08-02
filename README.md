@@ -50,4 +50,14 @@ The goal of this project is to build a solid foundation in:
   - Expected Value
   - Greedy Algorithms
 
----
+### *week 5: Dynamic programming*
+Grasp the fundamental ideas behind Dynamic Programming (DP).
+Learn to recognize DP patterns during problem-solving.
+Handbook
+🔍 Focus on defining DP states clearly, formulating state transitions, and understanding both memoization (top-down) and tabulation (bottom-up) strategies.
+🔍 Practice both recursive and iterative approaches to implementing DP solutions.
+
+### *week 7: creating my own data structure*
+I built my own data structure called MedianStack. 
+It works like a normal stack but can also return the median of elements in O(1) time using a multiset
+
