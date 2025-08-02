@@ -1,3 +1,12 @@
+✅ Features:
+push(x) – Adds an element.
+
+pop() – Removes top element.
+
+top() – Returns top element.
+
+getMedian() – Returns the median of the stack.
+
 🔍 Why is this useful?
 
 You might want to:
